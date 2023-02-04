@@ -1,0 +1,7 @@
+*-checkpoint.ipynb
+*-checkpoint.md
+*.swp
+indexes/**
+models/**
+runs/**
+testcollections/**
